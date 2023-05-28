@@ -14,4 +14,4 @@
 </ul>
 
 ## Demo: Please Click the picture below to watch
-<img src="https://github.com/danieljcoh/FAI-Investigative-Assistant/assets/37455228/e07398b5-6f6b-46c5-8c73-1220c7b3f958">
+<a href="https://www.youtube.com/watch?v=KrLplIw_Syw"><img src="https://github.com/danieljcoh/FAI-Investigative-Assistant/assets/37455228/e07398b5-6f6b-46c5-8c73-1220c7b3f958"></a>
